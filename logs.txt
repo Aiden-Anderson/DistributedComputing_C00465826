@@ -1,0 +1,22 @@
+    1  sudo yum install tmux
+    2  sudo yum install git
+    3  ls
+    4  mkdir workspace 
+    5  cd workspace/
+    6  sudo yum install vim 
+    7  git config  -global user.name "Aiden-Anderson"
+    8  git config  --global user.name "Aiden-Anderson"
+    9  git config --global user.email "aidenaanderson23@gmail.com
+"
+   10  git config --global credential.helper store
+   11  git 
+   12  mkdir DistributedComputing_C00465826
+   13  ls
+   14  cd DistributedComputing_C00465826/
+   15  git init
+   16  git remote add origin https://github.com/your-username/DistributedComputing_C00465826.git 
+   17  git remote -v
+   18  git status
+   19  git checkout -b initial_setup
+   20  ls
+   20  history > logs.txt
