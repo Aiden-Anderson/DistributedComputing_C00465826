@@ -1,3 +1,4 @@
+I believe this is all you need this is my history for the commands that worked successfully.
     1  sudo yum install tmux
     2  sudo yum install git
     3  ls
